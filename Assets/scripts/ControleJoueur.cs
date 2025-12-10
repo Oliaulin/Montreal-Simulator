@@ -200,3 +200,4 @@ public class ControleJoueur : MonoBehaviour
         Cursor.lockState = CursorLockMode.None;
     }
 }
+
